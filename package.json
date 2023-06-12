@@ -1,0 +1,14 @@
+{
+  "name": "sanbercode",
+  "version": "1.0.0",
+  "description": "tugas pekanan 3 javascript sanbercode-45",
+  "main": "index.js",
+  "scripts": {
+    "start": "node soal1.js"
+  },
+  "author": "azmi nurul",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
